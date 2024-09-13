@@ -1,0 +1,44 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*.local
+
+# Database settings
+*.sqlite
+*.pgsql
+*.sql
+pgdata/
+
+# Coverage directory used by testing tools
+coverage/
+
+# Build directory
+build/
+dist/
+
+# Temporary files
+tmp/
+temp/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Generated documentation
+docs/
+
+# Cache files
+.cache/
